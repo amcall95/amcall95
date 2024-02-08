@@ -1,0 +1,71 @@
+p {}
+
+#Amber1 {
+  	text-align: center;
+  	color: teal;
+    font-size: 20px;
+    font-family:helvetica;
+    
+}
+#Alex2 {
+  	text-align: center;
+    color: purple;
+    font-family:arial;
+}
+#Sam3 {
+  	text-align: Center;
+    color: DarkSlateBlue;
+    font-family:helvetica;
+}
+#Annie4 {
+  	text-align: center;
+  	color: deeppink;
+    Font-family:garamond;
+}
+#Nick5 {
+  	text-align: center;
+  	color: lightseagreen;
+    Font-family: courier new;
+}
+#Jace6 {
+  	text-align: center;
+  	color: mediumaquamarine;
+    font-size: 23px;
+    font-family: courier new; 
+}
+#title {
+  	text-align: center;
+  	color: plum;
+    font-size: 100px;
+    background-color: palevioletred;
+  margin-top: 120px;
+  margin-bottom: 120px;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+#AnimalTable {
+  font-family: courier new;
+  border-collapse: collapse;
+  width: 50%;
+ 
+  
+  
+}
+
+#AnimalTable td, #jokebooks th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  border-color: black;
+}
+
+#AnimalTable tr:nth-child(even){background-color: cornflowerblue;}
+
+#AnimalTable tr:hover {background-color: lightblue;}
+
+#AnimalTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: crimson;
+  color: black;
+}
